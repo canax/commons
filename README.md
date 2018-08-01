@@ -17,7 +17,7 @@ Anax Commons
 
 A place to store common files to have one central copy of the latest version of the file.
 
-This repo is used by scaffolding processes which copies files to set upp fresh installations.
+This repo is used by scaffolding processes which copies files to set upp fresh installations. The repo also contains development files and various configurations files for external build tools.
 
 
 
