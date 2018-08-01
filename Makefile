@@ -321,7 +321,7 @@ endif
 .PHONY: phpmd
 phpmd: prepare
 	@$(call HELPTEXT,$@)
-	- [ ! -f .phpmd.xml ] || $(PHPMD) . text .phpmd.xml | tee build/phpmd
+	- [ ! -f .phpmd.xml ] || [ ! -d src ] || $(PHPMD) . text .phpmd.xml | tee build/phpmd
 
 
 
@@ -329,7 +329,7 @@ phpmd: prepare
 .PHONY: phploc
 phploc: prepare
 	@$(call HELPTEXT,$@)
-	$(PHPLOC) src > build/phploc
+	[ ! -d src ] || $(PHPLOC) src > build/phploc
 
 
 
