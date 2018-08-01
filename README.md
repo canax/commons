@@ -13,7 +13,7 @@ Anax Commons
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/8705e9bc0a597e6dfb9a/maintainability)](https://codeclimate.com/github/canax/commons/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3d60f33c0b947a3af127788e800b402)](https://www.codacy.com/app/mosbth/commons?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=canax/commons&amp;utm_campaign=Badge_Grade)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/067df5c1-e2f6-4f2e-b479-79cfe511ae7c/mini.png)](https://insight.sensiolabs.com/projects/067df5c1-e2f6-4f2e-b479-79cfe511ae7c)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/01f9f4c7-1172-4630-b160-d9255b41b3bc/mini.png)](https://insight.sensiolabs.com/projects/01f9f4c7-1172-4630-b160-d9255b41b3bc)
 
 A place to store common files to have one central copy of the latest version of the file.
 
