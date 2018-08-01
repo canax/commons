@@ -1,0 +1,23 @@
+{
+    "name" : "anax/commons",
+    "description": "Anax Commons. A common place to store files used in several places, a place for scaffolding to look for files.",
+    "homepage": "https://github.com/canax/commons",
+    "license": "MIT",
+    "keywords": ["Anax", "Framework"],
+    "authors": [
+        {
+            "name": "Mikael Roos",
+            "email": "mos@dbwebb.se"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/canax/commons/issues",
+        "source": "https://github.com/canax/commons"
+    },
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {"Anax\\": "src/"}
+    }
+}
