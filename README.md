@@ -7,6 +7,10 @@ Anax Commons
 [![Build Status](https://travis-ci.org/canax/commons.svg?branch=master)](https://travis-ci.org/canax/commons)
 [![CircleCI](https://circleci.com/gh/canax/commons.svg?style=svg)](https://circleci.com/gh/canax/commons)
 
+[![Build Status](https://scrutinizer-ci.com/g/canax/commons/badges/build.png?b=master)](https://scrutinizer-ci.com/g/canax/commons/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/canax/commons/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/canax/commons/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/canax/commons/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/canax/commons/?branch=master)
+
 A place to store common files to have one central copy of the latest version of the file.
 
 This repo is used by scaffolding processes which copies files to set upp fresh installations.
