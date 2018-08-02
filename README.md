@@ -2,7 +2,6 @@ Anax Commons
 ========================
 
 [![Latest Stable Version](https://poser.pugx.org/anax/commons/v/stable)](https://packagist.org/packages/anax/commons)
-[![Latest Unstable Version](https://poser.pugx.org/anax/commons/v/unstable)](https://packagist.org/packages/anax/commons)
 [![Join the chat at https://gitter.im/canax/commons](https://badges.gitter.im/canax/commons.svg)](https://gitter.im/canax/commons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/canax/commons.svg?branch=master)](https://travis-ci.org/canax/commons)
