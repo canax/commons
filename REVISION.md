@@ -3,6 +3,14 @@ Revision history
 
 
 
+v2.0.0-alpha.2 (2018-08-02)
+---------------------------------
+
+* Principal decision, use this repo as glue to glue Anax components together.
+* Add src/functions.php used by more or less all Anax modules.
+
+
+
 v2.0.0-alpha.1 (2018-08-01)
 ---------------------------------
 
