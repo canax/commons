@@ -5,18 +5,19 @@
 
 // Were are all the files?
 define("ANAX_INSTALL_PATH", realpath(__DIR__ . "/.."));
-define("ANAX_APP_PATH", ANAX_INSTALL_PATH);
+//define("ANAX_APP_PATH", ANAX_INSTALL_PATH);
 
-// Include essentials
+// Set the basis for error handling
 require ANAX_INSTALL_PATH . "/config/error_reporting.php";
 
 // Get the autoloader by using composers version.
 require ANAX_INSTALL_PATH . "/vendor/autoload.php";
 
-// Add all rservices to $di
+// Add all services to $di
 $di = new \Anax\DI\DIFactoryConfig("di.php");
 
-// Enable to also use $app style to access services
+// Enable to also use $app style to access services, disable $app by comment
+// the lines below.
 $app = new \Anax\App\AppDIMagic();
 $di->setShared("app", $app);
 $app->setDI($di);
