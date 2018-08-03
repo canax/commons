@@ -4,6 +4,13 @@
  */
 
 /**
+ * Use only strict type checking, or not.
+ */
+//declare(strict_types=1);
+
+
+
+/**
  * Set one of Development or Production mode.
  */
 define(ANAX_DEVELOPMENT, true);
