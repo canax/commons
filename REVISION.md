@@ -3,7 +3,7 @@ Revision history
 
 
 
-v2.0.0-alpha.* (2018-08-02)
+v2.0.0-alpha.3 (2018-08-03)
 ---------------------------------
 
 * Add setting for ANAX_DEVELOPMENT and ANAX_PRODUCTION in config/error_reporting.php.
