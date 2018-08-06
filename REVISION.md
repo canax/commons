@@ -3,6 +3,14 @@ Revision history
 
 
 
+v2.0.0-alpha.4 (2018-08-06)
+---------------------------------
+
+* Adding Anax glue in src/Commons.
+* Adding src/Commons/ContainerInjectable*.php
+
+
+
 v2.0.0-alpha.3 (2018-08-03)
 ---------------------------------
 
