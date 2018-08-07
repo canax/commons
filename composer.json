@@ -1,6 +1,6 @@
 {
     "name" : "anax/commons",
-    "description": "Anax Commons. A common place to store files used in several places, a place for scaffolding to look for files.",
+    "description": "Anax Commons, commonly used glue files used by several modules.",
     "homepage": "https://github.com/canax/commons",
     "license": "MIT",
     "keywords": ["Anax", "Framework"],
