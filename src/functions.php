@@ -55,6 +55,7 @@ function t($str, $args = [])
  *
  * @return void
  *
+ * @codeCoverageIgnore
  */
 function mergesort(&$array, $cmpFunction)
 {
@@ -105,6 +106,7 @@ function mergesort(&$array, $cmpFunction)
  *
  * @return void
  *
+ * @codeCoverageIgnore
  */
 function glob_recursive($pattern, $flags = 0)
 {
@@ -141,6 +143,8 @@ function glob_recursive($pattern, $flags = 0)
 * @return array
 * @author Daniel <daniel (at) danielsmedegaardbuus (dot) dk>
 * @author Gabriel Sobrinho <gabriel (dot) sobrinho (at) gmail (dot) com>
+*
+* @codeCoverageIgnore
 */
 function array_merge_recursive_distinct(array &$array1, array &$array2)
 {

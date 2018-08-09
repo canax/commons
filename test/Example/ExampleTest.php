@@ -2,7 +2,7 @@
 
 namespace Anax;
 
-use \PHPUnit\Framework\TestCase;
+use PHPUnit\Framework\TestCase;
 
 /**
  * Example test class.

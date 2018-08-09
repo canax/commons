@@ -20,9 +20,9 @@ require ANAX_INSTALL_PATH . "/vendor/autoload.php";
 
 
 
-/**
- * Include others.
- */
+ /**
+  * Include others.
+  */
 foreach (glob(__DIR__ . "/Mock/*.php") as $file) {
     require $file;
 }

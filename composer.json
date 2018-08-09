@@ -14,9 +14,6 @@
         "issues": "https://github.com/canax/commons/issues",
         "source": "https://github.com/canax/commons"
     },
-    "require": {
-        "php": "^7.2"
-    },
     "autoload": {
         "psr-4": { 
             "Anax\\": "src/"
@@ -24,5 +21,11 @@
         "files": [
             "src/functions.php"
         ]
+    },
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "anax/di": "^2.0.0@alpha"
     }
 }
