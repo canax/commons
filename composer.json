@@ -27,6 +27,6 @@
     },
     "require-dev": {
         "anax/di": "^2.0.0@alpha",
-        "phpunit/phpunit": "^7",
+        "phpunit/phpunit": "^7"
     }
 }
