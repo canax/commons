@@ -21,6 +21,13 @@ This repo is used by scaffolding processes which copies files to set upp fresh i
 
 
 
+Versioning
+------------------
+
+We use [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html).
+
+
+
 License
 ------------------
 

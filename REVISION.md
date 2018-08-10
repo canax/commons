@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-alpha.* (2018-08-10)
+---------------------------------
+
+* Add info about versioning in README.
+
+
+
 v2.0.0-alpha.6 (2018-08-10)
 ---------------------------------
 
