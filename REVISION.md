@@ -7,6 +7,7 @@ v2.0.0-alpha.6 (2018-08-10)
 ---------------------------------
 
 * Install phpunit through composer.
+* Add sample htdocs/css.
 
 
 
