@@ -7,6 +7,7 @@ v2.0.0-alpha.* (2018-08-10)
 ---------------------------------
 
 * Add info about versioning in README.
+* Add make target cimage-install.
 
 
 

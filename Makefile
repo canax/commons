@@ -434,7 +434,18 @@ define GIT_IGNORE_FILES
 endef
 export GIT_IGNORE_FILES
 
-# target: cimage-update           - Install/update Cimage to latest version.
+# target: cimage-install          - Install Cimage in htdocs
+.PHONY: cimage-install
+cimage-install:
+	@$(call HELPTEXT,$@)
+	install -d htdocs/img htdocs/cimage cache/cimage
+	chmod 777 cache/cimage
+	$(ECHO) "$$GIT_IGNORE_FILES" | bash -c 'cat > cache/cimage/.gitignore'
+	cp vendor/mos/cimage/webroot/img.php htdocs/cimage
+	cp vendor/mos/cimage/webroot/img/car.png htdocs/img/
+	touch htdocs/cimage/img_config.php
+
+# target: cimage-update           - Update Cimage to latest version.
 .PHONY: cimage-update
 cimage-update:
 	@$(call HELPTEXT,$@)
