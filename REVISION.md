@@ -3,7 +3,7 @@ Revision history
 
 
 
-v2.0.0-alpha.* (2018-08-14)
+v2.0.0-alpha.8 (2018-08-14)
 ---------------------------------
 
 * Updating sample htdocs/js/main.js.
