@@ -1,5 +1,8 @@
 /**
- * Sample JS file.
+ * To show off JS works and can be integrated.
  */
-"use strict";
-// console.log("main.js");
+(function() {
+    "use strict";
+
+    console.info("main.js ready and loaded.");
+})();
