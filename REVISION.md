@@ -8,6 +8,7 @@ v2.0.0-alpha.* (2018-08-14)
 
 * Updating sample htdocs/js/main.js.
 * Add htdocs/img/leaf.jpg.
+* Makefile install phpmd from studentserver.
 
 
 
