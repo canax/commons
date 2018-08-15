@@ -1,6 +1,6 @@
 {
     "name" : "anax/commons",
-    "description": "Anax commonly used glue files used by several modules.",
+    "description": "Anax Commons module, stuff used by several modules.",
     "homepage": "https://github.com/canax/commons",
     "license": "MIT",
     "keywords": ["Anax", "Framework"],
