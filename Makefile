@@ -376,7 +376,6 @@ install-tools-bash:
 .PHONY: check-tools-bash
 check-tools-bash:
 	@$(call HELPTEXT,$@)
-	#@$(call CHECK_VERSION, $(SHELLCHECK), | cut -d" " -f3-)
 	@$(call CHECK_VERSION, $(SHELLCHECK))
 	@$(call CHECK_VERSION, $(BATS))
 

@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-beta.1 (2018-08-15)
+---------------------------------
+
+* Remove comment in Makefile for check bash.
+
+
+
 v2.0.0-alpha.8 (2018-08-14)
 ---------------------------------
 
