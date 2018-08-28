@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-beta.5 (2018-08-28)
+---------------------------------
+
+* Improve support for logging during production mode.
+
+
+
 v2.0.0-beta.4 (2018-08-28)
 ---------------------------------
 
