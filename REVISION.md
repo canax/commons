@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-beta.4 (2018-08-28)
+---------------------------------
+
+* Remove specific .htaccess variants, moved to anax-oophp-me.
+
+
+
 v2.0.0-beta.3 (2018-08-28)
 ---------------------------------
 
