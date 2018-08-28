@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-beta.3 (2018-08-28)
+---------------------------------
+
+* Fix error in config/commons.php, define wrap in string.
+
+
+
 v2.0.0-beta.2 (2018-08-15)
 ---------------------------------
 
