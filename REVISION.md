@@ -3,6 +3,14 @@ Revision history
 
 
 
+v2.0.0-beta.6 (2018-09-25)
+---------------------------------
+
+* Adding interface AppInjectableInterface for app-style injection.
+* Adding trait AppInjectableTrait for app-style injection.
+
+
+
 v2.0.0-beta.5 (2018-08-28)
 ---------------------------------
 
