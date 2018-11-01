@@ -3,6 +3,14 @@ Revision history
 
 
 
+v2.0.0-beta.7 (2018-11-01)
+---------------------------------
+
+* phpcs exclude theme/.
+* Removed empty lines in travis.
+
+
+
 v2.0.0-beta.6 (2018-09-25)
 ---------------------------------
 
