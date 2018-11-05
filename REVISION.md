@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-beta.11 (2018-11-05)
+---------------------------------
+
+* Add di as global identifier in test/config.php.
+
+
+
 v2.0.0-beta.10 (2018-11-05)
 ---------------------------------
 
