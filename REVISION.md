@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-beta.10 (2018-11-05)
+---------------------------------
+
+* Allow allow-unused-foreach-variables in phpmd.
+
+
+
 v2.0.0-beta.9 (2018-11-05)
 ---------------------------------
 
