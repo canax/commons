@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0-beta.12 (2018-11-12)
+---------------------------------
+
+* Update docker-compose with cli ability.
+
+
+
 v2.0.0-beta.11 (2018-11-05)
 ---------------------------------
 
