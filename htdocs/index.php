@@ -20,6 +20,11 @@ require ANAX_INSTALL_PATH . "/vendor/autoload.php";
 $di = new DIFactoryConfig();
 $di->loadServices(ANAX_INSTALL_PATH . "/config/di");
 
+// // Add anax/proxy access to $id, if available
+// if (class_exists("\Anax\Proxy\ProxyDIFactory")) {
+//     \Anax\Proxy\ProxyDIFactory::init($di);
+// }
+
 // Enable to also use $app style to access services
 // $di = new DIMagic();
 // $di->loadServices(ANAX_INSTALL_PATH . "/config/di");
