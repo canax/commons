@@ -3,10 +3,46 @@ Revision history
 
 
 
-v2.0.0-beta.8 (2018-11-20)
+v2.0.0-beta.13 (2018-11-20)
 ---------------------------------
 
 * Add (disabled by default) support for anax/proxy in htdocs/index.php.
+
+
+
+v2.0.0-beta.12 (2018-11-12)
+---------------------------------
+
+* Update docker-compose with cli ability.
+
+
+
+v2.0.0-beta.11 (2018-11-05)
+---------------------------------
+
+* Add di as global identifier in test/config.php.
+
+
+
+v2.0.0-beta.10 (2018-11-05)
+---------------------------------
+
+* Allow allow-unused-foreach-variables in phpmd.
+
+
+
+v2.0.0-beta.9 (2018-11-05)
+---------------------------------
+
+* phpmd exclude e as function name.
+
+
+
+v2.0.0-beta.8 (2018-11-05)
+---------------------------------
+
+* phpmd exclude e.
+>>>>>>> 0093c20071bea6599f554635083270217e36337b
 
 
 
