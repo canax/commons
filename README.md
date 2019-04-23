@@ -18,6 +18,8 @@ A place to store common files to have one central copy of the latest version of 
 
 This repo is used by scaffolding processes which copies files to set upp fresh installations. The repo also contains development files and various configurations files for external build tools.
 
+The repo also contains commonly used sourcecode like interfaces and traits, such code that is usually shared between several Anax modules.
+
 
 
 Versioning
@@ -36,5 +38,5 @@ This software carries a MIT license. See [LICENSE.txt](LICENSE.txt) for details.
 
 ```
  .  
-..:  Copyright (c) 2013 - 2018 Mikael Roos, mos@dbwebb.se
+..:  Copyright (c) 2013 - 2019 Mikael Roos, mos@dbwebb.se
 ```
