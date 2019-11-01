@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.2 (2019-11-01)
+---------------------------------
+
+* Update Makefile to latest version (phpmd installation).
+
+
+
 v2.0.1 (2019-04-24)
 ---------------------------------
 
