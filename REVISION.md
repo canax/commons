@@ -3,6 +3,15 @@ Revision history
 
 
 
+v2.0.3 (2019-11-21)
+---------------------------------
+
+* Fix helptext in Makefile to work in dir structure with space and åäö
+* Remove cimage targets from Makefile.
+* Update target theme i Makefile, to get files from build dir.
+
+
+
 v2.0.2 (2019-11-01)
 ---------------------------------
 
