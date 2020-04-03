@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.5 (2020-04-03)
+---------------------------------
+
+* Update Makefile with installation link for shellcheck.
+
+
+
 v2.0.4 (2020-04-03)
 ---------------------------------
 
