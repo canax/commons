@@ -3,6 +3,15 @@ Revision history
 
 
 
+v2.0.6 (2020-04-23)
+---------------------------------
+
+* Makefile: Fix that shellcheck is to be installed in .bin.
+* Makefile: Upgrade phpmd to 2.8.1.
+* Makefile clean up old commented sections.
+
+
+
 v2.0.5 (2020-04-03)
 ---------------------------------
 
