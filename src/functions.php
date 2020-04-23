@@ -25,7 +25,7 @@ function t($str, $args = [])
         $str = gettext($str);
     }
     */
-    
+
     // santitize and replace arguments
     if (!empty($args)) {
         foreach ($args as $key => $val) {
@@ -150,6 +150,7 @@ function array_merge_recursive_distinct(array &$array1, array &$array2)
 {
     $merged = $array1;
 
+    $value = null;
     foreach ($array2 as $key => &$value) {
         if (is_array($value) && isset($merged [$key]) && is_array($merged [$key])) {
             $merged [$key] = array_merge_recursive_distinct($merged [$key], $value);

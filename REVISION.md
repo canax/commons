@@ -10,6 +10,7 @@ v2.0.6 (2020-04-23)
 * Makefile upgrade phpmd to 2.8.1.
 * Makefile clean up old commented sections.
 * Makefile upgrade phpdoc to v3.0.0-rc.
+* Fix phpmd validation in functions.php.
 
 
 
