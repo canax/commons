@@ -6,9 +6,10 @@ Revision history
 v2.0.6 (2020-04-23)
 ---------------------------------
 
-* Makefile: Fix that shellcheck is to be installed in .bin.
-* Makefile: Upgrade phpmd to 2.8.1.
+* Makefile fix that shellcheck is to be installed in .bin.
+* Makefile upgrade phpmd to 2.8.1.
 * Makefile clean up old commented sections.
+* Makefile upgrade phpdoc to v3.0.0-rc.
 
 
 

@@ -248,7 +248,7 @@ check-docker:
 .PHONY: install-tools-php
 install-tools-php:
 	@$(call HELPTEXT,$@)
-	curl -Lso $(PHPDOC) https://github.com/phpDocumentor/phpDocumentor2/releases/download/v2.9.0/phpDocumentor.phar && chmod 755 $(PHPDOC)
+	curl -Lso $(PHPDOC) https://github.com/phpDocumentor/phpDocumentor2/releases/download/v3.0.0-rc/phpDocumentor.phar && chmod 755 $(PHPDOC)
 
 	curl -Lso $(PHPCS) https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar && chmod 755 $(PHPCS)
 
