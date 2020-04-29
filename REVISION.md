@@ -3,6 +3,15 @@ Revision history
 
 
 
+v2.0.7 (2020-04-29)
+---------------------------------
+
+* Makefile install shellcheck only on Linux/Darwin.
+* Add phpstan as development tool.
+* Add phpdox as development tool.
+
+
+
 v2.0.6 (2020-04-23)
 ---------------------------------
 
