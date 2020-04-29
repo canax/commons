@@ -3,13 +3,14 @@ Revision history
 
 
 
-v2.0.x (2020-04-29)
+v2.0.8 (2020-04-29)
 ---------------------------------
 
 * Add phpstan to make test
 * Scrutinizer run tests on php 7.4
 * Travis run tests on php 7.3, 7.4
 * Upgrade phpunit to v9.
+* Upgrade phpcs to PSR-12.
 
 
 
