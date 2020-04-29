@@ -7,6 +7,7 @@ v2.0.x (2020-04-29)
 ---------------------------------
 
 * Add phpstan to make test
+* Make scrutinizer run tests on php 7.4
 
 
 
