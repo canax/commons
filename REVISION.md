@@ -3,10 +3,11 @@ Revision history
 
 
 
-v2.0.x ()
+v2.0.9 (2020-05-05)
 ---------------------------------
 
 * Add phpstan composer.json
+* Add make test-anax to test all anax modules in vendor/anax.
 
 
 

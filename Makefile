@@ -131,6 +131,17 @@ test: phpunit phpcs phpmd phpstan phploc behat shellcheck bats
 
 
 
+# target: test-anax               - Run tests in vendor/anax/*.
+.PHONY:  test-anax
+test-anax:
+	@$(call HELPTEXT,$@)
+	for repo in `ls vendor/anax` ; do                        \
+		$(call ACTION_MESSAGE,"Do \"make install test\" of anax/$$repo");                       \
+		$(MAKE) --directory=vendor/anax/$$repo install test; \
+	done
+
+
+
 # target: doc                     - Generate documentation.
 .PHONY:  doc
 doc: phpdoc phpdox
