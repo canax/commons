@@ -97,6 +97,7 @@ prepare:
 clean:
 	@$(call HELPTEXT,$@)
 	rm -rf build
+	rm -f .phpunit.result.cache
 
 
 
