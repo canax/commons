@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.11 (2020-10-22)
+---------------------------------
+
+* Add configuration file for docker apache in config/docker.
+
+
+
 v2.0.10 (2020-05-26)
 ---------------------------------
 
