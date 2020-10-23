@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.12 (2020-10-23)
+---------------------------------
+
+* Update port for docker website to avoid port being occupied.
+
+
+
 v2.0.11 (2020-10-22)
 ---------------------------------
 
