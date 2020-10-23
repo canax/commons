@@ -7,6 +7,8 @@ v2.0.12 (2020-10-23)
 ---------------------------------
 
 * Update port for docker website to avoid port being occupied.
+* Add config/apache with config files for apache within docker.
+* Add config for docker with apache.
 
 
 
